@@ -49,6 +49,6 @@ cd dist
 ```
 You can now deploy these files to any static site hosting service to publish your cloud resume.
 
-##Salut
+## Salut
 
 Until next time, happy learning!
