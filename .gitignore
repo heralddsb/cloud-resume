@@ -1,2 +1,6 @@
 node_modules
 .DS_Store
+dist/assets/.DS_Store
+dist/assets/img/.DS_Store
+src/assets/.DS_Store
+src/assets/img/.DS_Store
